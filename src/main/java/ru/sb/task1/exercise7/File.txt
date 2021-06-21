@@ -1,0 +1,1 @@
+[Person {firstName = 'Anton', lastName = 'Bazhin'}, Person {firstName = 'Nikita', lastName = 'Bazhin'}]

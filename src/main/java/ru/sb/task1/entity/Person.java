@@ -1,8 +1,9 @@
 package ru.sb.task1.entity;
 
+import java.io.Serializable;
 import java.util.Comparator;
 
-public class Person {
+public class Person implements Serializable {
     private String firstName;
     private String lastName;
 
